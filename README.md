@@ -1,4 +1,4 @@
-### Hi there! I'm abotica 👋
+### Hi there! I'm Andrija 👋
 
 🚀 Full-stack Developer | 💻 MERN Stack Enthusiast | 🎨 Open Source Contributor
 
