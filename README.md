@@ -91,11 +91,11 @@ I am a Computer Science student with a passion for web development and data scie
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abotica&layout=compact&theme=dark)
 
 ## 📌 Pinned Repositories
-[**Project 1**](https://github.com/abotica/project1)  
-Brief description of the project, key technologies used, and a link to a live demo if available.
+[**NextJS App**](https://github.com/knevescanin/HCI)  
+NextJS app for Human-Computer Interaction course
 
-[**Project 2**](https://github.com/abotica/project2)  
-Brief description of the project, key technologies used, and a link to a live demo if available.
+[**React Edit Code School App**](https://github.com/abotica/react-app-ecs)  
+React app for final project in Edit Code School
 
 ## 🤝 Let's Connect
 - LinkedIn: [Andrija Botica](https://www.linkedin.com/in/andrija-botica-0b2a40226/)
