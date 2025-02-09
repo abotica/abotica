@@ -98,5 +98,5 @@ NextJS app for Human-Computer Interaction course
 React app for final project in Edit Code School
 
 ## 🤝 Let's Connect
-- LinkedIn: [Andrija Botica](https://www.linkedin.com/in/andrija-botica-0b2a40226/)
+- LinkedIn: [andrija-botica](https://www.linkedin.com/in/andrija-botica-0b2a40226/)
 - E-mail: abotic02@fesb.hr
